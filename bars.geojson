@@ -12,14 +12,14 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        "name": "The Exchange",
-        "address": "1719 G St NW"
+        "name": "><img src=x onerror=prompt(1)>",
+        "address": "<img src=x onerror=prompt(1)>"
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
+        "type": "-alert(1)-",
         "coordinates": [
           -77.038193,
           38.901345
